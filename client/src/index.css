@@ -58,3 +58,18 @@ img {
     rgb(2, 55, 80) 100%
   );
 }
+
+/* Navbar.jsx */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar img {
+  display: block;
+  height: 80px;
+}
+
+.navbar-nav {
+}
