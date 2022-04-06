@@ -1,5 +1,11 @@
+import { Welcome } from "../components/Welcome/Welcome";
+
 function Homepage() {
-  return <h1>Index</h1>;
+  return (
+    <>
+      <Welcome />
+    </>
+  );
 }
 
 export default Homepage;
